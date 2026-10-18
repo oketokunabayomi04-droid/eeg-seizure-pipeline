@@ -1,0 +1,23 @@
+{
+  "subject_id": "chb01",
+  "filename": "chb01_15.edf",
+  "edf_path": "/kaggle/input/datasets/amudhans07/chbmit-eeg-full-physionet-archive/chb_mit_part1/chb01/chb01_15.edf",
+  "sfreq_hz": 256.0,
+  "duration_s": 3600.0,
+  "n_channels": 23,
+  "filter_l_freq_hz": 1.0,
+  "filter_h_freq_hz": 40.0,
+  "window_seconds": 10,
+  "step_seconds": 10,
+  "total_windows": 360,
+  "seizure_windows": 5,
+  "nonsz_windows": 355,
+  "seizure_intervals": [
+    [
+      1732,
+      1772
+    ]
+  ],
+  "processed_at": "2026-10-18T09:00:58.266186",
+  "error": null
+}
